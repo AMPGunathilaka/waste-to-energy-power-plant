@@ -11,7 +11,7 @@
 	<groupId>com.workPermintManagement</groupId>
 	<artifactId>workPermintManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>workPermitManagement</name>
 	<description>Work Permit Management</description>
 	<url/>
